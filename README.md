@@ -1,1 +1,5 @@
-# LH_CD_Tatiana_Silva_Bezerra
+# Programa Lighthouse | Indicium
+
+## Desafio - Ciência de Dados
+
+*-> Tatiana Silva Bezerra <-*
