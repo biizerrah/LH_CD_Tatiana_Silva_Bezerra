@@ -21,5 +21,3 @@ Também é possivel utilizar o jupyter pelo próprio anaconda e no terminal ANAC
 ```
 jupyter notebook
 ```
-
-**NÃO foi criado um ambiente virtual .venv para o desenvolvimento desse desafio.**
