@@ -2,12 +2,16 @@
 
 ---
 
-## 🎯 Introdução
+## ✨ Introdução
 
-Este projeto implementa um modelo de **Regressão Linear** para prever a nota (rating) de filmes no IMDb, utilizando o conjunto de dados fornecido (`desafio_indicium_imdb.csv`). O objetivo é demonstrar a análise exploratória, o treinamento e o carregamento do modelo.
+Este projeto é resultado de um desafio de seleção da **Indicium** e representa meu ponto de partida na jornada de **Machine Learning (Aprendizado de Máquina)**.
+
+Ao desenvolver este modelo de **Regressão Linear** para prever notas do IMDb, tive a oportunidade de **aplicar conceitos teóricos na prática**. Cada etapa, desde a análise exploratória até a serialização do modelo, foi um passo de **crescimento** e **evolução**, permitindo-me aprender fazendo e me levando um nivel a mais de alcançar o objetivo de consolidar conhecimentos essenciais da Ciência de Dados.
+
+O objetivo técnico é implementar um modelo robusto utilizando o conjunto de dados fornecido (`desafio_indicium_imdb.csv`), demonstrando as fases cruciais de um projeto de ML.
 
 
-## Descrição dos Diretórios
+## 📁 Estrutura do Projeto
 
 ### **📁 data/**
 - **raw/**: Contém os dados brutos originais do desafio
